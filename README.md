@@ -19,8 +19,8 @@ Web Page: (https://.github.io/knapsack)
 1. Download this repository
 2. Run the file Knapsack.exe
 3. On the menu select the option 8:Create all knapsack problems (320 files)
-   This step will create the folder knapsack_problems that includes 320 knapsack problems files which can be resolved using the Knapsack.exe
-4. Select the algorithm with which you want to solve the problems (you can run all algorithms at once or one of them at a time)   
+   .This step will create the folder knapsack_problems that includes 320 knapsack problems files which can be resolved using the Knapsack.exe
+4. Select the algorithm you want to solve the problems (you can run all algorithms at once or one of them at a time)   
    and create CSV files with the solutions of the problems   
 
 **Knapsack.exe**          This the main solver with many features<br/>
